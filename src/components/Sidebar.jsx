@@ -53,7 +53,7 @@ const logoutHandler = async () => {
                     placeholder='Search...'
                 />
                 <button type='submit' className='btn bg-zinc-700 text-white'>
-                    <p className='w-6 h-6 outline-none'>Search </p>
+                    <p className='w-6 h-6 outline-none flex justify-center'>Search </p>
                 </button>
             </form>
             <div className="divider px-3"></div> 
